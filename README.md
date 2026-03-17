@@ -17,7 +17,7 @@ Este repositório reúne minhas soluções para problemas resolvidos na platafor
 - É uma forma divertida e desafiadora de aprender!
 - Me ajuda a melhorar meu pensamento algorítmico.
 - Praticar com problemas reais me prepara para entrevistas e projetos mais complexos.
-- Ah... e porque errar, quebrar a cabeça e depois acertar é um ótimo jeito de aprender. 😅
+- Ah... e porque errar, quebrar a cabeça e depois acertar é um ótimo jeito de aprender. 
 
 ---
 
