@@ -1,10 +1,10 @@
-# 🧠 Soluções do Codeforces
+# Soluções do Codeforces
 
 Este repositório reúne minhas soluções para problemas resolvidos na plataforma [Codeforces](https://codeforces.com/). Estou usando esses desafios como forma de praticar algoritmos, estruturas de dados e melhorar minhas habilidades de raciocínio lógico.
 
 ---
 
-## 📌 Sobre o repositório
+## Sobre o repositório
 
 - Os códigos estão organizados por pastas com o número de **dificuldade** e com o **nome do problema**.
 - A maioria das soluções está escrita em **Java**, mas posso eventualmente incluir outras linguagens.
@@ -12,7 +12,7 @@ Este repositório reúne minhas soluções para problemas resolvidos na platafor
 
 ---
 
-## 🚀 Por que resolvo problemas do Codeforces?
+## Por que resolvo problemas do Codeforces?
 
 - É uma forma divertida e desafiadora de aprender!
 - Me ajuda a melhorar meu pensamento algorítmico.
@@ -21,7 +21,7 @@ Este repositório reúne minhas soluções para problemas resolvidos na platafor
 
 ---
 
-## 📂 Estrutura do projeto
+## Estrutura do projeto
 
 Resolucoes-CodeForces/800
 ├── Watermelon.java
@@ -29,7 +29,7 @@ Resolucoes-CodeForces/800
 
 ---
 
-## 🛠️ O que estou usando
+## O que estou usando
 
 - 💻 **Linguagem principal**: Java
 - ✍️ IDE: IntelliJ IDEA
